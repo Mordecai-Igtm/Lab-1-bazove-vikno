@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Lab_1</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="a.png" />
+    <None Remove="b.png" />
+    <None Remove="c.png" />
+    <None Remove="d.png" />
+    <None Remove="e.png" />
+    <None Remove="f.png" />
+    <None Remove="g.png" />
+    <None Remove="h.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Res\a.png" />
+    <Resource Include="Res\b.png" />
+    <Resource Include="Res\c.png" />
+    <Resource Include="Res\d.png" />
+    <Resource Include="Res\e.png" />
+    <Resource Include="Res\f.png" />
+    <Resource Include="Res\g.png" />
+    <Resource Include="Res\h.png" />
+  </ItemGroup>
+
+</Project>

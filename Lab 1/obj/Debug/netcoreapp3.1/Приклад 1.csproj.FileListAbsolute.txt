@@ -1,0 +1,5 @@
+C:\Users\Mordecai\Desktop\Lab-1-master\Lab 1\obj\Debug\netcoreapp3.1\Приклад 1.csprojAssemblyReference.cache
+C:\Users\Mordecai\Desktop\Lab-1-master\Lab 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mordecai\Desktop\Lab-1-master\Lab 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mordecai\Desktop\Lab-1-master\Lab 1\obj\Debug\netcoreapp3.1\Приклад 1_MarkupCompile.cache
+C:\Users\Mordecai\Desktop\Lab-1-master\Lab 1\obj\Debug\netcoreapp3.1\Приклад 1_MarkupCompile.lref
